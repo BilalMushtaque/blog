@@ -1,3 +1,3 @@
 ---
-title: COD 208 Blog Setup Test
+title: Bilal Mushtaque's Blog Page
 ---
